@@ -19,28 +19,28 @@ Bubble Game is a simple yet engaging web-based game designed to challenge your s
 You can play this exciting Bubble Game online for free!
 
 1.  **Local Play:** If you have the game files (`index.html`, `style.css`, `app.js`) on your computer, simply open the `index.html` file in your web browser.
-2.  **Online Access:** If the game is hosted online (e.g., on GitHub Pages at `https://your-username.github.io/your-repository-name/`), you can play it directly by visiting that URL.
+2.  **Online Access:** If the game is hosted online (e.g., on GitHub Pages at `https://rahulgulabaji.github.io/Bubblegame/`), you can play it directly by visiting that URL.
 
 ## How to Download from GitHub
 
 If you'd like to download the source code of this Bubble Game, follow these steps:
 
-1.  Go to the GitHub repository: `https://github.com/rahulgulabaji/` (Replace with the actual URL).
+1.  Go to the GitHub repository: [https://github.com/rahulgulabaji/Bubblegame.git](https://github.com/rahulgulabaji/Bubblegame.git)
 2.  Click the green "Code" button.
 3.  Copy the repository URL (either HTTPS or SSH).
 4.  Open your terminal or command prompt.
 5.  Navigate to the directory where you want to save the project using the `cd` command.
-6.  Clone the repository using the command: `git clone <repository-url>`.
+6.  Clone the repository using the command: `git clone https://github.com/rahulgulabaji/Bubblegame.git`.
 
 ## Author
 
 **Rahul Gulabaji**
-[rahulgulabaji.github.com](https://rahulgulabaji.github.com)
+[https://rahulgulabaji.github.io/](https://rahulgulabaji.github.io/)
 
 ## Keywords
 
 bubble game, online game, free game, reflex game, click game, Rahul Gulabaji, fun game, web game, casual game, test your reflexes, number game
 
-## License (MIT)
+## License (Optional)
 
 [Add your license information here if you have one]
