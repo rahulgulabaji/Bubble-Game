@@ -19,7 +19,7 @@ Bubble Game is a simple yet engaging web-based game designed to challenge your s
 You can play this exciting Bubble Game online for free!
 
 1.  **Local Play:** If you have the game files (`index.html`, `style.css`, `app.js`) on your computer, simply open the `index.html` file in your web browser.
-2.  **Online Access:** If the game is hosted online (e.g., on GitHub Pages at `https://rahulgulabaji.github.io/Bubblegame/`), you can play it directly by visiting that URL.
+2.  **Online Access:** If the game is hosted online (e.g., on GitHub Pages at `https://rahulgulabaji.github.io/Bubble-Game/`), you can play it directly by visiting that URL.
 
 ## How to Download from GitHub
 
