@@ -8,14 +8,14 @@
 html, body {
     height: 100%;
     width: 100%;
-    background-color: #71a6f5;
-    
+    background: linear-gradient(to top, #3c86f5, #f25f5f); /* Added a subtle gradient */
+
 }
 
 #main {
 
     position: relative;
-    
+
     height: 100%;
     width: 100%;
     display: flex;
@@ -39,7 +39,7 @@ html, body {
     padding: 20px;
     background-color: #cce5ff;
     color: #004488;
-    
+
 }
 
 .elem {
@@ -83,17 +83,25 @@ html, body {
     font-weight: bold;
     cursor: pointer;
     font-size: 1.2em;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Added shadow for 3D feel */
+    transition: transform 0.1s ease-in-out; /* Added transition for smooth animation */
 }
 
 .bubble:hover {
-    transform: scale(1.05);
+    transform: scale(1.1); /* Slightly increased scale on hover */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
+}
+
+.bubble:active {
+    transform: scale(0.95); /* Slight shrink effect on click */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Reset shadow on click */
 }
 
 .special-bubble {
     border: 2px solid gold;
     color: black; /* Adjust text color for better visibility */
     font-size: 1.5em;
+    box-shadow: 0 4px 8px gold; /* Add a gold shadow/glow */
 }
 
 #game-over {
